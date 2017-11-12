@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# production
+logs
+
+# variables
+.env.json
+
+# misc
+.DS_Store
+.eslintrc
+npm-debug.log

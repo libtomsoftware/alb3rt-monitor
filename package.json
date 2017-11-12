@@ -1,0 +1,25 @@
+{
+  "name": "alb3rt-monitor",
+  "version": "0.1.0",
+  "description": "Alb3rt Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libtomsoftware/alb3rt-monitor.git"
+  },
+  "keywords": [
+    "alb3rt"
+  ],
+  "author": "Libtom Software Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libtomsoftware/alb3rt-monitor/issues"
+  },
+  "homepage": "https://github.com/libtomsoftware/alb3rt-monitor#readme",
+  "dependencies": {
+    "alb3rt-core": "file://../alb3rt-core"
+  }
+}

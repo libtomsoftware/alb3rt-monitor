@@ -1,0 +1,1 @@
+pm2 start index.js --name="Alb3rtMonitor" && pm2 logs Alb3rtMonitor

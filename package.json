@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/libtomsoftware/alb3rt-monitor#readme",
   "dependencies": {
-    "alb3rt-core": "file://../alb3rt-core"
+    "alb3rt-core": "*"
   }
 }
